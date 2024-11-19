@@ -1,23 +1,31 @@
 [
-	{
-		"dates": "June 2018 · Present",
-		"role": "Front-end Engineer",
-		"company": "Full Truck Alliance",
-		"description": "Responsible for customer service and CRM system front-end development.",
-		"logo": "/assets/images/experiences/fta.ico"
-	},
-	{
-		"dates": "July 2015 · June 2018",
-		"role": "Front-end Engineer",
-		"company": "YOHO!",
-		"description": "Responsible for mobile front-end development of e-commerce platform.",
-		"logo": "/assets/images/experiences/yoho.ico"
-	},
-	{
-		"dates": "September 2014 · July 2015 ",
-		"role": "Node.JS Developer",
-		"company": "WuLian",
-		"description": "Intern, involved in the development of Internet of Things cloud systems.",
-		"logo": "/assets/images/experiences/wulian.ico"
-	}
+  {
+    "dates": "January 2022 · Present",
+    "role": "Software Architect",
+    "company": "Slalom",
+    "description": "I've worked as an individual contributor and team lead on a variety of web application projects across a number of industries, including a number of financial institutions, a national fast-casual sandwich chain, and a large federal government program.",
+    "logo": "/assets/images/experiences/build.png"
+  },
+  {
+    "dates": "May 2019 · January 2022",
+    "role": "Senior Software Engineer",
+    "company": "Slalom",
+    "description": "Responsible for mobile front-end development of e-commerce platform.",
+    "logo": "/assets/images/experiences/build.png"
+  },
+
+  {
+    "dates": "October 2016 · April 2019",
+    "role": "Consultant",
+    "company": "Slalom",
+    "description": "Technology consultant at Slalom in the Portland, OR market. During this time, I worked on a number of UI projects using both Salesforce and modern web technologies for a number of high profile clients, including an athletic footwear and apparal corporation near Beaverton, OR, and a multinational e-commerce and cloud computing company in Seattle, WA.",
+    "logo": "/assets/images/experiences/slalom_consulting_logo.jpeg"
+  },
+  {
+    "dates": "August 2015 · October 2016",
+    "role": "Senior UI Engineer",
+    "company": "McGraw-Hill Education",
+    "description": "Worked on an assessment application to facilitate easy test creation and management.  Technologies used include HTML5, CSS3, JavaScript, Ember.js, qUnit, Jenkins, Travis CI.",
+    "logo": "/assets/images/experiences/mcgraw_hill_education_logo.jpeg"
+  }
 ]
